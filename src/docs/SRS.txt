@@ -1,6 +1,5 @@
 * Note:   Use appropriate access modifiers and data types wherever required.
 
-
 User Class
   1. Create following variables
      - FirstName  - LastName  - Email - Contact - ImageUrl - Gender - Id - UserName - Password
