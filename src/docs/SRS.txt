@@ -1,0 +1,15 @@
+* Note:   Use appropriate access modifiers and data types wherever required.
+
+
+User Class
+  1. Create following variables
+     - FirstName  - LastName  - Email - Contact - ImageUrl - Gender - Id - UserName - Password
+  2. Create their setters and getters
+      Eg: setter and getters for Email should look like
+      void setEmail(string value);
+      string getEmail();
+
+
+Cart Class
+  1. Create following variables
+    - CartId - Products - 
