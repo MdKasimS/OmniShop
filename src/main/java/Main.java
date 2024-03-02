@@ -7,8 +7,4 @@ public class Main {
     System.out.println("Salam Hindusthan!");
   }
 
-  // @Test
-  // void addition() {
-  //     assertEquals(2, 1 + 1);
-  // }
 }
